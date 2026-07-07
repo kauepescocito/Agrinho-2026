@@ -15,8 +15,8 @@ a{
 }
 img{
     width: 600px;
-    height: 600px;
-    border-radius: 0%;
+    height: 300px;
+    border-radius: 30%;
 }
 .center {
    text-align: center;
